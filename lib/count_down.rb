@@ -3,7 +3,7 @@
 counter = 10
 
 while (counter > 0) do
-  put counter
+  puts counter
   counter -= 1
 end
-put "Happy New Year!"
+puts "Happy New Year!"
